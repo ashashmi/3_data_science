@@ -1,0 +1,13 @@
+{"event" : "login","time" : "2019-11-20 00:14:46","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-20 00:14:46","user_id" : 992210}
+{"event" : "login","time" : "2019-11-20 00:14:46","user_id" : 823323}
+{"event" : "like","time" : "2019-11-20 00:14:47","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-20 00:14:48","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-20 00:14:47","user_id" : 823323}
+{"event" : "login","time" : "2019-11-20 00:14:50","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-20 00:14:57","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-20 00:14:58","user_id" : 978699}
+{"event" : "login","time" : "2019-11-21 00:14:50","user_id" : 978699}
+{"event" : "logout","time" : "2019-11-21 00:14:57","user_id" : 978699}
+
+
